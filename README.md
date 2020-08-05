@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an elm application for batch tagging csv data: https://www.robingruenke.com/elm-csv-batch-tagger
+- 🔭 I’m currently working on an elm application for batch tagging csv data: [Try it out](https://www.robingruenke.com/elm-csv-batch-tagger)
 
 <!--
 **eimfach/eimfach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
