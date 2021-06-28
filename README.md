@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌐 [My Portfolio Website](https://www.robingruenke.com)
+- 🌱 [Learning how to learn](https://github.com/eimfach/robingruenke.com/blob/master/journal/learning/learning-how-to-learn-notes.md)
 - 🔭 Elm application for batch tagging csv data: [Try it out](https://www.robingruenke.com/elm-csv-batch-tagger)
 - 📘 I like [Jupyter Notebooks](https://github.com/eimfach/my-notebooks)
 - 📚 I'm blogging [here](https://www.robingruenke.com/#journal)
