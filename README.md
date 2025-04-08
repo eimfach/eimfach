@@ -5,7 +5,6 @@
 - 🔭 Elm application for batch tagging csv data: [Try it out](https://www.robingruenke.com/elm-csv-batch-tagger)
 - 📘 I like [Jupyter Notebooks](https://github.com/eimfach/my-notebooks)
 - 📚 I'm blogging [here](https://www.robingruenke.com/#journal)
-- 👯 I’m looking to collaborate on Elm and Python projects
 - 📫 How to reach me: robin.gruenke@protonmail.com
 
 <!--
